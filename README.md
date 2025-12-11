@@ -15,7 +15,7 @@ https://drive.google.com/drive/folders/1HS5J9NsoEpcjFcPLr8mfh8khvKb80pHo?usp=sha
 
 There are four data files in this folder: "ML_reddit.txt"(Combined file after first cleaning pass), "ML_clean.txt" (Intermediate cleaned version), and "ML_superclean.txt" (Final dataset used for all modeling)
 
-After downloading, Run ML.ipynb
+After downloading, run ML_project_code.ipynb
 # Project Goals
 This project investigates:
 How people discuss existential questions in online spaces
